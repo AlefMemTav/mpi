@@ -1,6 +1,6 @@
 ### MPI Vector Proportional
 
-Elaborar um programa MPI com dois processos, que imprimem, proporcionalmente, um vetor ﬁxo (do po int) de 8 posições;
+Elaborar um programa MPI com dois processos, que imprimem, proporcionalmente, um vetor ﬁxo (do tipo int) de 8 posições;
 
 #### Resultado:
 
