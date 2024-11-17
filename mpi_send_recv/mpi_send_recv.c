@@ -20,7 +20,7 @@ int main()
 
     if (rank == 0)
     {
-        strcpy(msn, "Hello world");
+        strcpy(msn, "Hello World");
         for (int i = 1; i < nprocs; i++)
         {
             MPI_Send(msn, 12, MPI_CHAR, i, TAG, MPI_COMM_WORLD);

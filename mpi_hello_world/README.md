@@ -2,9 +2,9 @@
 
 Simples `Hello World` usando MPI com 4 processos paralelos.
 
-#### Resultado:
+Elaborar um programa MPI que consiga criar 4 processos em hosts distintos do cluster e imprimir a mensagem "Hello World\n” em cada um deles.
 
-`mpirun -np 4 ./mpi_hello_world`
+#### Resultado:
 
 ```
 Hello World
